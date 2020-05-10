@@ -1,10 +1,3 @@
-package com.company;    /*
-
- *  Java Program to Implement Binary Search Tree
-
- */
-
-
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
